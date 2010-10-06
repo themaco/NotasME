@@ -1,0 +1,20 @@
+NotasME 1.0
+
+Funcionalidad actual:
+En el contexto de una aplicación de demostración de las capacidades de la tecnología Java Micro Edition, las funciones actuales de la aplicación son:
+
+    * Registrar las N notas de una asignatura seleccionando a su vez el tipo de evaluación, su porcentaje y la nota obtenida.
+    * Desplegar las notas previamente almacenadas.
+    * Calcular la nota global.
+    * Eliminar todos los registros de notas.
+
+Sin embargo la aplicación aun necesita varias mejoras y un par de validaciones, asi como una nueva interfaz.
+
+Funcionalidad esperada:
+Para la nueva versión de la aplicación se desea:
+
+    * Validación de porcentajes y notas obtenidas
+    * Nueva interfaz basada en LWUIT 1.4
+    * Capacidad de registrar notas de más de una materia
+    * Utilizar una base de datos embebida (sujeto a evaluación)
+
