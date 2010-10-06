@@ -119,7 +119,7 @@ public class Notas extends MIDlet implements CommandListener {
     }
 
     public void startApp() {
-        // mostrar el menu principal
+        // mostrar el menu principal 
         display.setCurrent(mostrarMenu());
     }
 
